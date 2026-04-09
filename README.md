@@ -1,4 +1,4 @@
-# Campus Task Tracker
+# GDSC Spring 2026 Workshop: Building a Campus Task Tracker
 
 The app we're building today is **Campus Task Tracker**, a small React Native + Expo app where users can:
 - add tasks
