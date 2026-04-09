@@ -1,4 +1,4 @@
-# Campus Task Tracker: a step-by-step beginner mobile app project
+# Campus Task Tracker
 
 The app we're building today is **Campus Task Tracker**, a small React Native + Expo app where users can:
 - add tasks
