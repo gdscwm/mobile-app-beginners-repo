@@ -67,10 +67,6 @@ mobile-app-beginners-repo/
 │   ├── Header.js
 │   ├── TaskForm.js
 │   └── TaskItem.js
-├── docs/
-│   ├── instructor-guide.md
-│   ├── lesson-plan.md
-│   └── student-checkpoints.md
 ├── .gitignore
 ├── App.js
 ├── LICENSE
